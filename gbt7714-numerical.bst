@@ -83,9 +83,9 @@ FUNCTION {load.config}
   #1 'space.before.pages :=
   #0 'only.start.page :=
   #0 'wave.dash.in.pages :=
-  #1 'show.urldate :=
-  #1 'show.url :=
-  #1 'show.doi :=
+  #0 'show.urldate :=
+  #0 'show.url :=
+  #0 'show.doi :=
   #1 'show.preprint :=
   #0 'show.note :=
   #0 'show.english.translation :=
